@@ -1,0 +1,2 @@
+# AlgorithmsInRust
+I am learning the Rust language, and well, I have starting writing some popular/common algorithms like sorting algorithms and etc, using Rust. If you are familar with the Rust more than me, please fix my mistakes and learn me more. But if you don't know and dicided on starting the Rust well I hope this repo can be helpful for all you. For the end, please star it if you feel good with it.
